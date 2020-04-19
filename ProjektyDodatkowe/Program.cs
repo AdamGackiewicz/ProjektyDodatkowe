@@ -10,6 +10,8 @@ namespace ProjektyDodatkowe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+            Console.ReadLine();
         }
     }
 }
